@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GravE
-- 👀 I’m interested in web and app developement
+- 👋 Hi, I’m Soumil Jana
+- 👨‍🎓 Im a 2nd year CS Undergrad Student
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any possible projects 
-- 📫 How to reach me - www.linkedin.com/in/soumil-jana-2196b3234
+- 📫 How to reach me - www.linkedin.com/in/soumil-jana
 
 
 <!---
